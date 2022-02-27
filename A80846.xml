@@ -1,0 +1,1348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Malice against ministry manifested by the plain and modest plea and defence of Zach. Crofton minister of the Gospel at Buttolphs Aldgate London unto the false and frivolons [sic] charge of Tho. Harrison, and John Levet against him exhibited unto the commissioners for the ejection of ignorant, scandalous and insufficient ministers, &amp;c. within the City of London. In which you have his past credit attested. Present plea demurred. Particular articles duly and distinctly answered.</title>
+            <author>Crofton, Zachary, 1625 or 6-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80846</idno>
+            <idno type="STC">Wing C6996</idno>
+            <idno type="STC">Thomason E931_5</idno>
+            <idno type="STC">ESTC R207660</idno>
+            <idno type="EEBO-CITATION">99866698</idno>
+            <idno type="PROQUEST">99866698</idno>
+            <idno type="VID">118982</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118982)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 140:E931[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Malice against ministry manifested by the plain and modest plea and defence of Zach. Crofton minister of the Gospel at Buttolphs Aldgate London unto the false and frivolons [sic] charge of Tho. Harrison, and John Levet against him exhibited unto the commissioners for the ejection of ignorant, scandalous and insufficient ministers, &amp;c. within the City of London. In which you have his past credit attested. Present plea demurred. Particular articles duly and distinctly answered.</title>
+                  <author>Crofton, Zachary, 1625 or 6-1672.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for James Nuthal, and are to be sold at his house in the Minories next door to the Dolphin, and book-sellers shops,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mary Cadman, Crofton's maid, had publicly accused him of whipping her too enthusiastically. Crofton had earlier defended himself under the pseudonym Alethes Noctroff.</note>
+                  <note>Annotation on Thomason copy: "10 Decemb:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cadman, Mary.</term>
+               <term>Harrison, Thomas, --  Captain.</term>
+               <term>Levet, John.</term>
+               <term>Crofton, Zachary, 1625 or 6-1672.</term>
+               <term>Clergy --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118982:1"/>
+            <pb facs="tcp:118982:1" rendition="simple:additions"/>
+            <p>MALICE Againſt MINISTRY MANIFESTED By the Plain and Modeſt PLEA and DEFENCE OF <hi>ZACH. CROFTON</hi> Miniſter of the Goſpel at <hi>Buttolphs Aldgate London</hi> Unto the Falſe and Frivolous Charge of <hi>Tho. Harriſon,</hi> and <hi>John Levet</hi> againſt him exhibited unto the Commiſſi<g ref="char:EOLhyphen"/>oners for the Ejection of Ignorant, Scandalous and Inſufficient Miniſters, <hi>&amp;c.</hi> within the City of <hi>London.</hi> In which you have His <hi>Paſt Credit Atteſted. Preſent Plea demurred. Particular Articles duly and diſtinctly anſwered.</hi>
+            </p>
+            <q>
+               <bibl>Acts 26.2.</bibl> 
+               <hi>I think my ſelf happy King Aggrippa, becauſe I ſhall this day anſwer before thee of all things whereof I am accuſed by the Iewes.</hi>
+            </q>
+            <q>Neque tu bonus Poeta eſſes, ſi preter legem carminis caneres; Neque ego Civilis Praetor eſſem, ſi preterquam quod leges permittunt tibi gratificarer. <bibl>Themi. ad Sim.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>James Nathal,</hi> and are to be ſold at his houſe in the Minories next door to the Dolphin, and at Book-ſellers Shops, 1657.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118982:2"/>
+            <pb facs="tcp:118982:2"/>
+            <head>To the Right Worſhipful and Reverend, The Commiſsioners for the Ejection of Ig<g ref="char:EOLhyphen"/>norant, Scandalous and Inſufficient Miniſters, <hi>&amp;c.</hi> within the City of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Right Worſhipful and Reverend Sirs,</salute>
+            </opener>
+            <p>THIS enſuing plea is to you preſented, not as a Book which begs your Patronage, nor yet to prejudge the cauſe before you depending, or in the leaſt to ſuperſede your proceedings, but to acquaint you with the real truth to facilitate your debates, and anſwer the deſire of ſome among you, whom (if I did not miſtake) I heard (in my laſt appearance be<g ref="char:EOLhyphen"/>fore you) ſay, <hi>They expected my anſwer in writing,</hi> which now you have; and this Epiſtle is to apologiſe this publick approach unto you: unto which I have been conſtrained By <hi>your multitude</hi> to whom one Copie could be little advantage, and tranſcription is a burden I cannot bear, and I believe your Clerks would find ve<g ref="char:EOLhyphen"/>ry heavy: By the clamors of mine enemies who have loudly ſaid, <hi>They had laid in before you a Charge, by which they ſhould diſcover me to be the vileſt Miniſter in</hi> England, <hi>even more vile then thoſe Centuries ſilenced by the late Committee for plun<g ref="char:EOLhyphen"/>dered Miniſters:</hi> and therefore did provoke my friends to per<g ref="char:EOLhyphen"/>ſwade me to run away, and (have ſince my appearance) clamored that <hi>I cover my guilt by denying your cogniſance;</hi> and demur to your jurisdiction, becauſe I dare not plead to the charge; here<g ref="char:EOLhyphen"/>by the world may ſee the charge though detecting ſome infirmities is not ſo criminal; and although I would not repreſent you arbi<g ref="char:EOLhyphen"/>trary who are bound up to a law; and therefore by advice of Counſel learned in law, I have demurred; yet I had a full anſwer ready on which I dare join iſſue. By the pragmatick readi<g ref="char:EOLhyphen"/>neſs of ſome over-buſie ſpirits to be printing the paſſages of laſt dayes proceedings (which was by a Printer of my acquaintance providentially prevented:) laſtly, I have made thus bold to en<g ref="char:EOLhyphen"/>treat a ſpeedy reſult of your preſent debate, that if within your
+<pb facs="tcp:118982:3"/> cogniſance we may proceed to triall: if not you will pleaſe ju<g ref="char:EOLhyphen"/>dicially to declare it ſo, and not keep it in deck and me and my people under ſuſpitious delayes: mine accuſers have ſaid it ſhal be Lady-day before it be by you decided: but I hope you will conſider the great work of God upon my hands, and one way or other ſet me at libertie: and if (as mine accuſers blaze abroad) the charge be to be returned to his Highneſs and Councel (whoſe cogniſance I cannot but believe it is much below) I crave that you will pleaſe with the charge to return this plea, that if poſſi<g ref="char:EOLhyphen"/>ble by it their prejudice againſt me may be removed, and I and my people (by their favor) be reſtored to our Sabbaths liberty in our own Church; and erroneous <hi>John Simpſon</hi> be removed from among us: the which if you, or any of you, could obtain in our behalf, our reſtored peace and order, the advancement of Gods truth and ordinances ſhould be your bleſſing; and I ſhould be no more ſuſpected of disaffection to the preſent Government then I was before his intruſion. <hi>Worthy Sirs,</hi> I will hold you no longer, ſave to tell you, I doubt not but you ſee how ready Satan is to make uſe of you (who are piouſly intended to reform the Mi<g ref="char:EOLhyphen"/>niſtrie) unto the ruine of this holy function: and how ever it may fare with me, I hope it will make you cautious what charge and by what kind of perſons is laid againſt a Miniſter: and if I have offended in coming a little out of my way to meet you with this anſwer, I pray remember you ſtept ſomething out of your way to call him hither, who is</p>
+            <closer>
+               <dateline>
+                  <hi>From my Study in</hi> Co<g ref="char:EOLhyphen"/>vent-Garden <hi>in the Pa<g ref="char:EOLhyphen"/>riſh of</hi> Butolphs-Ald<g ref="char:EOLhyphen"/>gate <date>
+                     <hi>this 8. of</hi> De<g ref="char:EOLhyphen"/>cember, <hi>1657.</hi>
+                  </date>
+               </dateline>
+               <signed>Your humble Orator expecting your piety and juſtice, ZACH. CROFTON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:118982:3"/>
+            <head>
+               <hi>MALICE againſt MINISTRIE MANIFESTED. By</hi> The modeſt Plea and Defence of <hi>ZACH. CROFTON</hi> unto the falſe and frivolous Charge againſt him exhibited un<g ref="char:EOLhyphen"/>to the Worſhipful and Reverend, <hi>The Commiſſioners for eje<g ref="char:EOLhyphen"/>ction of Ignorant, Scandalous and Inſufficient Miniſters with<g ref="char:EOLhyphen"/>in the City of London,</hi> by <hi>John Levet,</hi> and <hi>Tho. Harriſon,</hi> and other their anti-miniſterial Confederates in the Pariſh of <hi>Bo<g ref="char:EOLhyphen"/>tolphs Aldgate:</hi> as it was prepared, and purpoſed to be decla<g ref="char:EOLhyphen"/>red at the Guild-hall on Wedneſday, the <hi>2</hi> of Decemb <hi>1657</hi>
+            </head>
+            <p>I Am here convened before you, under the Notion of a <hi>Scandalous man in life and converſation;</hi> and on that ac<g ref="char:EOLhyphen"/>count to be <hi>ejected out of the Miniſtry.</hi> The Miniſtrie of the Goſpel I know to be ſo ſacred a Function of ap<g ref="char:EOLhyphen"/>proach to God, as that <hi>Holineſſe</hi> ſhould adorn the ſub<g ref="char:EOLhyphen"/>jects of it: A Miniſters practice I well know is ſo obvious to the peoples view, that he that is prophane, muſt needs unpro<g ref="char:EOLhyphen"/>fitably preach the Word of Holineſs: it hath ever been a Pe<g ref="char:EOLhyphen"/>tition in my Lerany, <hi>From an ignorant and profane Miniſtry, the ſcandal of Chriſtianity, Good Lord deliver us.</hi> And on that ac<g ref="char:EOLhyphen"/>count I have in my late<note place="margin">A Book ſo cal<g ref="char:EOLhyphen"/>led.</note> 
+               <hi>Right Re-entred</hi> declared to all the world, and told mine enemies, <hi>I am ſo zealous for a pious Mi<g ref="char:EOLhyphen"/>niſtry, that let me but have juſt Judges, judicial Proceſs, and faithful Witneſs, and if I be found guilty of a ſcandalous conver<g ref="char:EOLhyphen"/>ſation, let me be caſt out as unſavory ſalt; for though I cannot bear recrimination, as the anſwer of my Right yet I deſire not to retain forfeited priviledges, the forfeiture being regularly demand<g ref="char:EOLhyphen"/>ed.</hi> Hereupon the enemies of my Miniſtry having loudly cla<g ref="char:EOLhyphen"/>moured, that I was a perſon vile and ſcandalous, and that they may <hi>audactèr calumniare,</hi> reproach with impudence, not doub<g ref="char:EOLhyphen"/>ting, but that though they miſs their deſign, they may with ſo
+<pb n="2" facs="tcp:118982:4"/> much impudence make ſome dirt to ſtick. To this end they have exhibited a charge in ſundry Articles againſt me, unto which I now appear to give this enſuing anſwer.</p>
+            <floatingText xml:lang="eng" type="charges">
+               <body>
+                  <head>Articles exhibited againſt Mr. <hi>Zachary Crofton</hi> of <hi>But<g ref="char:EOLhyphen"/>tolphs Aldgate, London,</hi> To his Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector and Council, by <hi>John Levet</hi> of the ſaid Pariſh.</head>
+                  <p n="1">I. AT his firſt coming into the Pariſh, ſome difference fell betwixt him and the Inhabitants, wherupon the Church Wardens and ſome others, went up to him in the Veſtry-houſe, where he queſtioned the Church Wardens and ſome others, why they had brought ſo many of the inhabi<g ref="char:EOLhyphen"/>tants thither, and told them, That he deſired but twenty or thirty of the names of the chief of the Pariſh to conſult with<g ref="char:EOLhyphen"/>all, whereupon M. <hi>John Farmantle,</hi> then Conſtable, asked him, What he would do with the names of thoſe perſons that he knew not? then the ſaid <hi>Crofton</hi> replyed, What is that to you if I conſult with the Divel to know what they are. Where<g ref="char:EOLhyphen"/>upon <hi>William Turner,</hi> then Conſtable, anſwered him, If you have ſo much familiarity with the Divel, you are no fit Par<g ref="char:EOLhyphen"/>ſon for us. And the ſaid <hi>Crofton</hi> replied, What have you to do with that? or words to that effect.</p>
+                  <p n="2">II. M. <hi>Sabine</hi> (one of M. <hi>Croftons</hi> friends) ſaith, That a little time after M. <hi>Crofton</hi> came to preach at <hi>Aldgate,</hi> asked of him, By what power he came thither? and he anſwered him, By my Lord Protectors. Then ſaid M <hi>Sabine,</hi> Why then obſerve ye not his Highneſs Orders, concerning the dayes of Faſting, and dayes of Thankſgiving, and praying for his Highneſs? M. <hi>Crofton</hi> anſwered him, An honeſt man may receive a courteſie of a Thief upon the high way, or words to that purpoſe.</p>
+                  <p n="3">III. Some of the pariſh being given to underſtand that M. <hi>Crofton</hi> had been at Whitehal with a Petition to his High<g ref="char:EOLhyphen"/>neſs, deſiring as they were informed to have a hearing of the buſineſſe concerning his uncivil behaviour uſed towards his maid, upon which two of the Common-Council men, and a<g ref="char:EOLhyphen"/>nother perſon went to the houſe of the ſaid M. <hi>Crofton</hi> to give him an account that he had been (as they underſtood)
+<pb n="3" facs="tcp:118982:4"/> with M. <hi>Maline,</hi> and clamourd them againſt them, upon which the ſaid perſons told him, They were ready and willing to make good whatſoever they had ſaid againſt him; and in order thereunto were reſolved to Petition his Highneſs for a hear<g ref="char:EOLhyphen"/>ing, upon which the ſaid <hi>Crofton</hi> replied, The Protector was no competent Judge, for that he had prejudged him already, in giving away half his Pulpit to M. <hi>Simpſon.</hi> And further, ſaid, He was an unrighteous Judge, for he that ſhall make a noſe of Wax of the Law, as he hath done, was an unrighteous Judge, or words to that effect.</p>
+                  <p n="4">IV. The uncivil behaviour of the ſaid <hi>Crofton</hi> uſed towards his maid ſervant, <hi>Mary Cadman,</hi> as appears by Affidavits ta<g ref="char:EOLhyphen"/>ken before the Maſter of the Chancery; as alſo the examina<g ref="char:EOLhyphen"/>tions of ſeveral, taken before the Commiſſioners, ordered by his Highneſſe the Lord Protector, to examine the ſame; all which lie before his Highneſs at this preſent.</p>
+                  <p n="5">V. That whereas there was an Order granted by his High<g ref="char:EOLhyphen"/>neſs the Lord Protector and the Council (to confirm the for<g ref="char:EOLhyphen"/>mer Order for M. <hi>John Simpſons</hi> preaching on the Lords day in the afternoon (as uſual) and a Lecture on one of the week daies) dated the 4 of <hi>Auguſt</hi> 1657. The Churchwar<g ref="char:EOLhyphen"/>dens, according to their duty, carried the ſaid Order to the ſaid M. <hi>Crofton,</hi> who read the ſame, and then demanded, Where they had it? they anſwered, From my Lord Protector and the Council. Nay, ſaid M. <hi>Crofton,</hi> you mean you had it from the Common Council; and ſaid, he knew not the hand, and that the Order did not concern him. Notwith<g ref="char:EOLhyphen"/>ſtanding this, he having performed his morning exerciſe on the Lords day, being the 9 of <hi>Auguſt,</hi> he there conti<g ref="char:EOLhyphen"/>nued in the Pulpit, and ſeveral others with him in the Church, and went not home, as is uſual, which cauſed many people from ſeveral parts to flock about the Church, ſeeing the ſaid <hi>Crofton</hi> to keep the Pulpit, and Conſta<g ref="char:EOLhyphen"/>bles ſtaves brought to the Church out of <hi>Middleſex</hi> to guard him by the ſaid perſons to whom the ſtaves did be<g ref="char:EOLhyphen"/>long they being Conſtables and Headboroughs of <hi>Mid<g ref="char:EOLhyphen"/>dleſex</hi> cauſed a great diſturbance. The Conſtables, whoſe charge it was to ſee the peace kept, and that no diſtur<g ref="char:EOLhyphen"/>bance
+<pb n="4" facs="tcp:118982:5"/> might ariſe, went into the Church with one of the Churchwardens, about one of the clock, in a peaceable manner, to know whether M. <hi>Zachary Crofton</hi> would obey his Highneſs and Councils Order, upon which one of the Conſtables of <hi>Middleſex</hi> aforeſaid; thruſt both the Con<g ref="char:EOLhyphen"/>ſtable and Churchwatden who only went to perform their duty.</p>
+                  <p n="6">VI. That on the next day, being the 10. of <hi>Auguſt,</hi> the ſaid M. <hi>Crofton</hi> got a Warrant from a Juſtice of Peace to apprehend <hi>Edward Tench</hi> and <hi>Antony Finch,</hi> Conſtables. (which did their duty according to his Highneſs and Coun<g ref="char:EOLhyphen"/>cils Order) and after the Warrant Signed and Sealed by the Juſtice, the ſaid <hi>Crofton</hi> did of himſelf interline and put in the name of one <hi>Roger Waldin,</hi> who was the fore<g ref="char:EOLhyphen"/>mentioned Churchwarden in the fifth Article; and appre<g ref="char:EOLhyphen"/>hended the ſaid <hi>Waldin</hi> and carryed him before a Juſtice of Peace for a diſturber, which upon examination was found to be none.</p>
+                  <closer>
+                     <signed>A true Copy.
+<list>
+                           <item>
+                              <hi>William Avery</hi>
+                           </item>
+                           <item>
+                              <hi>John Levet.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Harriſon.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="charges">
+               <body>
+                  <head>Additional Articles exhibited by the major part of the Com<g ref="char:EOLhyphen"/>mon Council, the Churchwardens, and divers of the Inha<g ref="char:EOLhyphen"/>bitants of the Pariſh of <hi>Buttolph</hi> without <hi>Aldgate,</hi> againſt <hi>Zachary Crofton</hi> Miniſter there.</head>
+                  <p n="1">I. THat on the 16 day of <hi>Auguſt</hi> laſt, being the Lords day, the ſaid <hi>Zachary Crofton</hi> in the publick meeting place of <hi>Aldgate,</hi> in his publick Exerciſe or Sermon, did ſay, That <hi>Moſes</hi> could prevail with the Lord by Prayer, but he could not prevail neither by Prayer nor Law, becauſe that ungodly men have prevailed with the unjuſt Judges of this Nation, who have gone contrary to their Oath, tyrannically diſinheriting him of his right, and letting of an erroneous turbulent ſpirit enjoy it.</p>
+                  <pb n="5" facs="tcp:118982:5"/>
+                  <p n="2">II. And that their ſword was the Law, and therefore their tyrannie was the greater, whereunto Law cannot reach.</p>
+                  <p n="3">III. And that if that he were to plead his cauſe, with either Gody or honeſt, Pious, or Civil, Modeſt, or Juſt Judges, according to Law, he was confident he ſhould enjoy his right: and ſaid that the wickedneſs of ungodly man hath ſo prevailed againſt him, with the tyrannie of unjuſt Judges, that he is en<g ref="char:EOLhyphen"/>forced to leave his right, and if any of the Soules of his people be damned, for ought he knew, their blood would be required at the hand of the unjuſt Judges or the Erroneous Intruders.</p>
+                  <p n="4">IIII. The ſaid <hi>Zacharie Crofton,</hi> on the day and at the place above mentioned did further ſay, I have received an or<g ref="char:EOLhyphen"/>der for <hi>Simpſons</hi> teaching in my Pulpit, and I am here to ſur<g ref="char:EOLhyphen"/>render my juſt reentred right to <hi>Simpſon,</hi> contrarie to all Law right and reaſon, and as a certain king ſaid, what I will do I will do; ſo I am diſreentred by that power, that what they will do they will do contrarie to all Law, right and reaſon.</p>
+                  <p n="5">V. That on the Third day of <hi>September</hi> laſt, it being a Commanded publique day of Thanksgiving for the Victories of <hi>Dunbar</hi> and <hi>Worceſter,</hi> the ſaid <hi>Zacharie Crofton</hi> would not Preach himſelf that day, nor ſuffer any other to Preach that day in the Publick meeting place at <hi>Aldgate.</hi>
+                  </p>
+                  <p>That on Munday the 21. of <hi>September</hi> laſt it being the day appointed according to the <hi>Annual Cuſtom</hi> for a thanksgiving to the Lord for his Mercies to the Trained bands of <hi>Algate</hi> (amongſt others) at the memorable fight at <hi>Newberrie-Waſh</hi> the ſaid <hi>Zacharie Crofton</hi> was requeſted by the inhabitants of <hi>Aldgate</hi> Pariſh who had been Souldiers in that fight to give leave to M. <hi>John Simpſon</hi> to Preach them a Sermon in the pub<g ref="char:EOLhyphen"/>lique meeting place at <hi>Aldgate,</hi> but the ſaid M. <hi>Crofton</hi> would not give leave, ſo the ſaid inhabitants were forced to have their Sermon at Katherine Creed-Church a Neighbour Church.</p>
+                  <closer>
+                     <signed>A true Copy.
+<list>
+                           <item>
+                              <hi>William Avery.</hi>
+                           </item>
+                           <item>
+                              <hi>John Levet.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Harriſon.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:118982:6"/>
+            <p>I am a Man, and ſo ſubject to infirmities, and hard it will be to paſs through the ſieve of envy, and rake of malice, and have the whole courſe of my life reviewed by revengeful foes, and not ſomething of guilt found, which may be charged and muſt not be denied; but yet though as a man I have been ſurpriſed with ſome failings, yet this I have to ſay, That as a Miniſter I have (by Gods grace) for more then fourteen years exerciſed this holy calling, not onely without the leaſt clamor and charge of ſcandal; but with the fame and repute of a godly man among ſuch as are godly, both Miniſters and peo<g ref="char:EOLhyphen"/>ple; to the evidence of this, I crave that your Clerk may read theſe annexed Certificates from the people and Miniſters among whom I lived in the Countrey before I came to <hi>Lon<g ref="char:EOLhyphen"/>don:</hi>
+            </p>
+            <floatingText xml:lang="eng" type="testimonial">
+               <body>
+                  <opener>
+                     <dateline>Newcaſtle <hi>in</hi> Staffordſhire.</dateline>
+                  </opener>
+                  <p>WHereas we are given to underſtand that it is moſt wickedly and maliciouſly reported that Mr. <hi>Zachariah Crofton</hi> our late Miniſter, now Preacher at <hi>James Garlick-hill</hi> in <hi>London,</hi> was in the time he lived amongſt us, known to be a Malignant, and Scandalous man in life and converſation, and was for his Malignancy and Scandal, from us removed: We do hereby certifie and declare to all men, that he was never charged with, nor amongſt us ſo much as ſuſpected of mali<g ref="char:EOLhyphen"/>gnancy, but well known for his integrity to the Parliament of <hi>England,</hi> and that as to his carriage amongſt us, he was not onely painful and faithful in preaching to us the word of truth in ſoundneſs, to the profit and good of many a ſoul amongſt us, and in the Countrey about us, but alſo cleer from all ſcan<g ref="char:EOLhyphen"/>dal in his converſation and well reputed among us for his piety, and never was from among us removed upon the ac<g ref="char:EOLhyphen"/>count of malignancy or ſcandal, in witneſs hereof, we have ſet our hands, the twentieth of <hi>Auguſt</hi> 1653.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>John Hill,</hi> Major</item>
+                           <item>
+                              <hi>Joſeph Sond</hi> Miniſter of <hi>Newcaſtle</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Lawton</hi>
+                           </item>
+                           <item>
+                              <hi>Walter Bagnall</hi>
+                           </item>
+                           <pb n="7" facs="tcp:118982:6"/>
+                           <item>
+                              <hi>Richard Orine</hi> Schoolmaſter</item>
+                           <item>
+                              <hi>Randle Bagnal</hi> Aldermen.</item>
+                           <item>
+                              <hi>Richard Bagnal</hi> Aldermen.</item>
+                           <item>
+                              <hi>Randolph Shaw</hi> Aldermen.</item>
+                           <item>
+                              <hi>Richard Heath</hi> Aldermen.</item>
+                           <item>
+                              <hi>Richard Bowker</hi> Aldermen.</item>
+                           <item>
+                              <hi>Ralph Keeling</hi> Aldermen.</item>
+                           <item>
+                              <hi>Thomas Bagnall</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Low,</hi> Bailiffe</item>
+                           <item>
+                              <hi>Thomas Harriſon</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Harriſon</hi>
+                           </item>
+                           <item>
+                              <hi>Richard B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>lton</hi>
+                           </item>
+                           <item>
+                              <hi>Randolph Lovet</hi>
+                           </item>
+                           <item>
+                              <hi>William Bret</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Bradſhaw</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Shaw</hi>
+                           </item>
+                           <item>
+                              <hi>William Waklate</hi>
+                           </item>
+                           <item>
+                              <hi>Mathew Pain</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Wood</hi>
+                           </item>
+                           <item>
+                              <hi>John Brooks</hi>
+                           </item>
+                           <item>
+                              <hi>John Harriſon</hi>
+                           </item>
+                           <item>
+                              <hi>James Tarbuck</hi>
+                           </item>
+                           <item>
+                              <hi>John Burgis</hi>
+                           </item>
+                           <item>
+                              <hi>Georg Richardſon</hi>
+                           </item>
+                           <item>
+                              <hi>Gilbert Hill</hi>
+                           </item>
+                           <item>
+                              <hi>Matthew Rock</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Knight</hi>
+                           </item>
+                           <item>
+                              <hi>William Harriſon</hi>
+                           </item>
+                           <item>
+                              <hi>John Butler</hi> Church-warden.</item>
+                           <item>
+                              <hi>Richard Cook.</hi>
+                           </item>
+                           <item>
+                              <hi>Samuel Bagnal</hi>
+                           </item>
+                           <item>
+                              <hi>John Jennings</hi>
+                           </item>
+                           <item>
+                              <hi>John Harriſon</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Harriſon</hi>
+                           </item>
+                           <item>
+                              <hi>Matthew Bowcar</hi>
+                           </item>
+                           <item>
+                              <hi>William Beard.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="testimonial">
+               <body>
+                  <opener>
+                     <date>
+                        <hi>Sept.</hi> 16. 1653.</date>
+                  </opener>
+                  <p>WEE whoſe names are ſubſcribed being Inhabitans in the Pariſh of <hi>Wenbury</hi> in the County of <hi>Cheſter,</hi> do hereby certifie to all thoſe whom it may concern, that Mr. <hi>Zachary Crofton</hi> was Miniſter in the ſaid Pariſh from <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1649 for the ſpace of two years and upward, all which time with diligence and godly zeal he did Preach unto us the Word of Truth, Adminiſter the Sacraments, and Catechize the yonger ſort of Chriſtians. His Doctrine was pure and Or<g ref="char:EOLhyphen"/>thodox, ſo far as we are able to judge, his Converſation honeſt, and ſuch as became the Goſpel of Chriſt; his Reputation with the Miniſtry and godly Chriſtians in the County was unſpot<g ref="char:EOLhyphen"/>ted, his Company deſired, and ſince his departure hence to <hi>London,</hi> his abſence very much lamented; all which we ſhall further teſtifie as occaſion ſhall be offered.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>John Maſſie</hi>
+                           </item>
+                           <item>
+                              <hi>Nicholas Wilſon</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Morris</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Savage</hi>
+                           </item>
+                           <item>
+                              <hi>William Hall</hi>
+                           </item>
+                           <item>
+                              <hi>Hugh Hall</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Lewis</hi>
+                           </item>
+                           <item>
+                              <hi>Ralph Yeaviſon</hi>
+                           </item>
+                           <item>
+                              <hi>Peter Jackson</hi>
+                           </item>
+                           <item>
+                              <hi>John Fiſher.</hi>
+                           </item>
+                           <item>
+                              <hi>John Barrow</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Brees</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Heighfeild</hi>
+                           </item>
+                           <item>
+                              <hi>Randal Ankars</hi>
+                           </item>
+                           <item>
+                              <hi>George Hall</hi>
+                           </item>
+                           <pb n="8" facs="tcp:118982:7"/>
+                           <item>
+                              <hi>Thomas Gray</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Hamnet</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Tricket</hi>
+                           </item>
+                           <item>
+                              <hi>Hugh Maſſie</hi>
+                           </item>
+                           <item>
+                              <hi>Jonathan Ball</hi>
+                           </item>
+                           <item>
+                              <hi>James Barnit</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Caldecot</hi>
+                           </item>
+                           <item>
+                              <hi>John Savadge</hi>
+                           </item>
+                           <item>
+                              <hi>John Sproſton</hi>
+                           </item>
+                           <item>
+                              <hi>Jo. Broſter Ludim</hi>
+                           </item>
+                           <item>
+                              <hi>John Vernon</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Woolrich</hi>
+                           </item>
+                           <item>
+                              <hi>William Wollrich,</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Coleſacks</hi>
+                           </item>
+                           <item>
+                              <hi>John Wilkiſon</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Wolam</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Jackſon</hi>
+                           </item>
+                           <item>
+                              <hi>William Howpar</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Tenſh</hi>
+                           </item>
+                           <item>
+                              <hi>George Bennifield</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Gray</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Spencer</hi>
+                           </item>
+                           <item>
+                              <hi>William Manwaring</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Palin</hi>
+                           </item>
+                           <item>
+                              <hi>Joſeph Palin</hi>
+                           </item>
+                           <item>
+                              <hi>Ar. Cartwright</hi>
+                           </item>
+                           <item>
+                              <hi>George Starkey</hi>
+                           </item>
+                           <item>
+                              <hi>William Cudworth</hi>
+                           </item>
+                           <item>
+                              <hi>Fench Yeaman</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas French</hi>
+                           </item>
+                           <item>
+                              <hi>Ralph Preeſe</hi>
+                           </item>
+                           <item>
+                              <hi>William Rogers</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Rogers</hi>
+                           </item>
+                           <item>
+                              <hi>William Milliton</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Rogers</hi>
+                           </item>
+                           <item>
+                              <hi>Randle Hare</hi>
+                           </item>
+                           <item>
+                              <hi>John Daxon</hi>
+                           </item>
+                           <item>
+                              <hi>William Wickſteed</hi>
+                           </item>
+                           <item>
+                              <hi>John Twis</hi>
+                           </item>
+                           <item>
+                              <hi>John Lunt</hi>
+                           </item>
+                           <item>
+                              <hi>John Woolrich.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="testimonial">
+               <body>
+                  <opener>
+                     <date>November the 5th. <hi>1657.</hi>
+                     </date>
+                  </opener>
+                  <p>WE the Miniſters of the Goſpel in the County of <hi>Cheſter,</hi> and parts adjacent, do upon our perſonal knowledg of M. <hi>Zachary Crofton,</hi> now Miniſter of <hi>Bottolphs Aldgate, London,</hi> certifie, That he lived, and conſtantly ex<g ref="char:EOLhyphen"/>erciſed his Miniſtry among us for many years together, during which time he was highly eſteemed by our ſelves and ſuch as feared God among us, and that as well for the Grace of God in him witneſſed by his holy and unblameable conver<g ref="char:EOLhyphen"/>ſation among us, his Sober and Modeſt behaviour in his own Pariſh and Family, as for his abilities for faithfulneſs and conſtant diligence in the work of the Miniſtry: and that in all the time he lived in our Country, he was never ſtained with the leaſt blemiſh of Malignancy, or Scandal, or Immo<g ref="char:EOLhyphen"/>deſty, either in reference to himſelf or family.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>And Parſons</hi> Miniſter of <hi>Wem.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Porter</hi> Miniſt. of <hi>Whitchurch</hi>
+                           </item>
+                           <item>
+                              <hi>Sam. Cole</hi> Paſtor of <hi>Wybunbury</hi>
+                           </item>
+                           <item>
+                              <hi>Edw. Burghal</hi> Miniſter of <hi>Acton</hi>
+                           </item>
+                           <item>
+                              <hi>Sam. Fiſher</hi> Miniſter at <hi>Thornton</hi>
+                           </item>
+                           <item>
+                              <hi>Iames Marbury</hi> Miniſter of <hi>Da<g ref="char:EOLhyphen"/>venham.</hi>
+                           </item>
+                           <item>
+                              <hi>George Mainwairing</hi> Miniſter of <hi>Malpas.</hi>
+                           </item>
+                           <item>
+                              <hi>Richad Jackſon</hi> Miniſter at <hi>Nampt<g ref="char:EOLhyphen"/>wich.</hi>
+                           </item>
+                           <item>
+                              <hi>Mat. Jenkyn</hi> Paſtor at <hi>Grefford.</hi>
+                           </item>
+                           <item>
+                              <hi>Ran. Sillito</hi> Paſtor of <hi>Church-Lawton.</hi>
+                           </item>
+                           <pb n="9" facs="tcp:118982:7"/>
+                           <item>
+                              <hi>Ri. Steel</hi> Miniſter of <hi>Hanmer Flint</hi>
+                           </item>
+                           <item>
+                              <hi>Nat. Lancaſter</hi> Paſtor of <hi>Tarperly</hi>
+                           </item>
+                           <item>
+                              <hi>John Glendole</hi> Paſtor of <hi>Peters</hi> in <hi>Cheſter.</hi>
+                           </item>
+                           <item>
+                              <hi>John Pemberton</hi> Paſtor of <hi>Johns</hi> in <hi>Cheſter</hi>
+                           </item>
+                           <item>
+                              <hi>Sam. Clark</hi> Miniſter of Taruin</item>
+                           <item>
+                              <hi>Thomas Edge</hi> Miniſter of <hi>Goo<g ref="char:EOLunhyphen"/>ſtree.</hi>
+                           </item>
+                           <item>
+                              <hi>Joſias Clarke</hi> Paſtor of <hi>Tatenhall.</hi>
+                           </item>
+                           <item>
+                              <hi>William Keyes.</hi>
+                           </item>
+                           <item>
+                              <hi>Aylmore Houghton</hi> Miniſter of <hi>Preeze.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And ſince Providence caſt my Miniſtry into this City, ſuch hath been my courſe of life, known to my brethren in the Mi<g ref="char:EOLhyphen"/>niſtry, with whom I have conferred, and intimately aſſociated, as that they are pleaſed to give of it this enſuing Teſtimony.</p>
+            <floatingText xml:lang="eng" type="testimonial">
+               <body>
+                  <opener>
+                     <dateline>LONDON <date>
+                           <hi>April the</hi> 10. 1657.</date>
+                     </dateline>
+                  </opener>
+                  <p>WHereas M. <hi>Zacharie Crofton</hi> (Miniſter of the Goſpel of <hi>Buttolphs Algate</hi> London) hath for ſeveral years laſt paſt had his abode, and exerciſed his Miniſtrie in this Citie, by means whereof we whoſe names are under written (with many others) have had the opportunitie to know him, his miniſtrie and Converſation.</p>
+                  <p>Theſe are to certifie (all whom it may concern) that upon our Perſonal knowledg and long experience, we Judg him to be a truly Godly man, an eminently able, painful, faithful, and Zealous diſpencer of the Goſpel: In whoſe hand God hath exceedingly proſpered his own work, for the converſion, conſo<g ref="char:EOLhyphen"/>lation, ſtrengthening, eſtabliſhment, and edification of very many Souls to eternal life; So that he is (we know) very much in and dear to the hearts of Gods People in this City: And as for his converſation, we eſteem him a man of great in<g ref="char:EOLhyphen"/>tegrity, and conſcientious in all his wayes, truly Pious, exem<g ref="char:EOLhyphen"/>plary and holy in the courſe of his life and converſe with men, whereby as by his publick indefatigable labours, and all other good wayes and means, his endeavours have always been to promote and advance godlineſs and the intereſt of Je<g ref="char:EOLhyphen"/>ſus Chriſt in his generation. In witneſs of all which we have hereunto readily ſet our hands.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Edm. Calamy.</hi>
+                           </item>
+                           <item>
+                              <hi>Simeon Aſhe.</hi>
+                           </item>
+                           <item>
+                              <hi>Arthur Ja<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>kson.</hi>
+                           </item>
+                           <pb n="10" facs="tcp:118982:8"/>
+                           <item>
+                              <hi>James Nalton</hi> Miniſter <hi>of Leon Foſterlane.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Caſe.</hi>
+                           </item>
+                           <item>
+                              <hi>Samuel Clark.</hi>
+                           </item>
+                           <item>
+                              <hi>Charles Ofſpring.</hi>
+                           </item>
+                           <item>
+                              <hi>Elidad Blackwel.</hi>
+                           </item>
+                           <item>
+                              <hi>William Bates.</hi>
+                           </item>
+                           <item>
+                              <hi>Matthew Poole</hi> Miniſter of <hi>Michal Querne.</hi>
+                           </item>
+                           <item>
+                              <hi>John Croſs</hi> Miniſter of <hi>Frida<g ref="char:EOLhyphen"/>ſtreet London.</hi>
+                           </item>
+                           <item>
+                              <hi>John Fuller</hi> Miniſter of <hi>Jron<g ref="char:EOLhyphen"/>monger lane.</hi>
+                           </item>
+                           <item>
+                              <hi>George Smalwood</hi> Miniſter of <hi>Mildreds in the Poultry.</hi>
+                           </item>
+                           <item>
+                              <hi>William Blackmor</hi> Miniſter of <hi>Peters Cornhil.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Clendon</hi> Miniſter of <hi>Alhallowes Barking London.</hi>
+                           </item>
+                           <item>
+                              <hi>John Wells</hi> Miniſter of <hi>Olaves Jewry London.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Watſon</hi> Miniſter of <hi>Stephens Walbrook.</hi>
+                           </item>
+                           <item>
+                              <hi>Roger Drake</hi> Miniſter of <hi>Pe<g ref="char:EOLhyphen"/>ters Weſt-Cheap.</hi>
+                           </item>
+                           <item>
+                              <hi>James Cranford</hi> Miniſter of <hi>Chriſtophers.</hi>
+                           </item>
+                           <item>
+                              <hi>William Taylor</hi> Miniſter <hi>in Cole<g ref="char:EOLhyphen"/>man ſtreet.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Jacomb</hi> Miniſter of M. <hi>Ludgate.</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Kentiſh</hi> Miniſter at <hi>Katherines tower.</hi>
+                           </item>
+                           <item>
+                              <hi>William Wickins</hi> Miniſter of <hi>Andrews Hubbards.</hi>
+                           </item>
+                           <item>
+                              <hi>Matthew Haviland</hi> Miniſter of <hi>Trinity Pariſh London.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And in this Pariſh, where theſe men labour to render me vile ſuch hath been my converſation, that the people who hath ſeen and known my manner of life (theſe men excepted, whoſe firſt quarrel was, and greateſt is, at my * miniſtry) in an open Aſſembly (not by gathering names to blanks from door to door in a clandeſtine way, as did mine enemies) with an una<g ref="char:EOLhyphen"/>nimous and cheerful acclamation, give this annexed Teſtimony of me, and proteſt againſt theſe proſecutions of my name and miniſtry.</p>
+            <floatingText xml:lang="eng" type="testimonial">
+               <body>
+                  <pb n="11" facs="tcp:118982:8"/>
+                  <head>
+                     <hi>To the Honorable Comiſsioners for Ejection of Scandalous ignorant and inſufficient Miniſters.</hi> The Humble Repreſentation and Proteſt of the Pariſhioners of the Pariſh of Botolphes Aldgate London, againſt the preſent proſecution of <hi>M.</hi> Zacharie Crofton our faithful Paſtor.</head>
+                  <p>WE the Inhabitants within the Pariſh of <hi>Botolphs Aldgate London,</hi> having underſtood, that there are certain Ar<g ref="char:EOLhyphen"/>ticles of Scandal exhibited againſt M. <hi>Zacharie Crofton</hi> our pre<g ref="char:EOLhyphen"/>ſent Miniſter; and that in the name of the Churchwardens, and Pariſhoners of the ſaid Pariſh, thought it to be no other then our duty, to acquit our ſelves from the guilt and odium of this proſecution by making this repreſentation of our thoughts, that we received M. <hi>Zacharie Crofton</hi> to be our Miniſter as a bleſſing from God, and peculiar favour from his Highneſs.</p>
+                  <p>And that as we were ſatisfied in the piety of his paſt life (by the teſtimonials, we have ſeen ſubſcribed by the hands of the people among whom he hath lived, ſo ſince he hath lived among us (which is almoſt three years) he hath laboured among us with much faithfulneſs, induſtry, diligence, and good ſucceſs in his Miniſtry, unto the great ſettlement of our diſtracted Pa<g ref="char:EOLhyphen"/>riſh, and reſtitution of Gods ordinances (of which we have been long deprived) and hath led his life among us in all honeſty, and godlineſs; and walked before us in the example of an holy un<g ref="char:EOLhyphen"/>blamable converſation, as becomes a Miniſter of the Goſpel; and in ſubmiſſion to the preſent Government of this Common-Wealth, in ſo much that the common infirmities of a man ex<g ref="char:EOLhyphen"/>cepted, we cannot charge him: but proteſt our diſlike, and de<g ref="char:EOLhyphen"/>teſtation of all proſecutions of him, to the reproach of his name, (which hath been precious in the Church of God) and depriv<g ref="char:EOLhyphen"/>ing us of his Miniſtry, which we have found powerful in our hearts, and conſciences; farther declaring that we utterly diſ<g ref="char:EOLhyphen"/>own all Articles againſt him, in our names or by any intruſted with any power, or places of truſt &amp; dignity among us againſt him ex<g ref="char:EOLhyphen"/>hibited, well knowing that they are no other, then the malicious proſecution of ſome too violent and diſcontented men a<g ref="char:EOLhyphen"/>mong us; who have diſturbed our peace, diſtracted our order intru<g ref="char:EOLhyphen"/>ded
+<pb n="12" facs="tcp:118982:9"/> on us teachers which we cannot own, and now labour to de<g ref="char:EOLhyphen"/>prive not only us, but the Churches of God of his pains and precious Min<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtry, whom though we are far from defending in any known Scandal, yet as knowing his integrity, cannot but own and ſtand by, and deſire ſuch as are intruſted with power that he may be convicted of real crimes, and not infirmities, (from which we know no man free,) ſtrained by malicious enemies, but as become, Piety, Juſtice, and the end for which you are Au<g ref="char:EOLhyphen"/>thorized; in all which we hope for expreſſions of tender reſpect unto our ſoules which cleave unto his Miniſtry, and we whoſe hands are ſubſcribed ſhall pray.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Rob. Burdit.</hi>
+                           </item>
+                           <item>
+                              <hi>Rich. Garford.</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Mico.</hi>
+                           </item>
+                           <item>
+                              <hi>Kelham White.</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Quicke.</hi>
+                           </item>
+                           <item>
+                              <hi>William Grammer.</hi>
+                           </item>
+                           <item>
+                              <hi>Abram Parrat.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Winſle.</hi>
+                           </item>
+                           <item>
+                              <hi>Nath. Frere.</hi>
+                           </item>
+                           <item> 
+                              <list>
+                                 <item>
+                                    <hi>Alex. Green</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Rowl. Swin<g ref="char:EOLhyphen"/>nerton</hi>
+                                 </item>
+                              </list> Church wardens</item>
+                           <item>
+                              <hi>George Ayrey.</hi>
+                           </item>
+                           <item>
+                              <hi>Nicholas Addams.</hi>
+                           </item>
+                           <item>
+                              <hi>John Hebs.</hi>
+                           </item>
+                           <item>
+                              <hi>Anthony Wood.</hi>
+                           </item>
+                           <item>
+                              <hi>John Beck.</hi>
+                           </item>
+                           <item>
+                              <hi>William Acton.</hi>
+                           </item>
+                           <item>
+                              <hi>James Nuthal.</hi>
+                           </item>
+                           <item>
+                              <hi>Paul Doby.</hi>
+                           </item>
+                           <item>
+                              <hi>John Langham.</hi>
+                           </item>
+                           <item>
+                              <hi>Abram Venhack.</hi>
+                           </item>
+                           <item>
+                              <hi>Nathaniel Page.</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Engliſh.</hi>
+                           </item>
+                           <item>
+                              <hi>Peter Turner.</hi>
+                           </item>
+                           <item>
+                              <hi>Nathaniel Milles.</hi>
+                           </item>
+                           <item>
+                              <hi>John Widneſs.</hi>
+                           </item>
+                           <item>
+                              <hi>Anthony Hancock.</hi>
+                           </item>
+                           <item>
+                              <hi>Joſeph Surbut.</hi> Seni.</item>
+                           <item>
+                              <hi>John Duncomb.</hi>
+                           </item>
+                           <item>
+                              <hi>Jonathan Grammer.</hi>
+                           </item>
+                           <item>
+                              <hi>John VVarren.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Baſſet.</hi>
+                           </item>
+                           <item>
+                              <hi>James VVoodward.</hi>
+                           </item>
+                           <item>
+                              <hi>Ralph Cawte.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Ederton.</hi>
+                           </item>
+                           <item>
+                              <hi>John Hutton.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Draycot.</hi>
+                           </item>
+                           <item>
+                              <hi>John Barfout.</hi>
+                           </item>
+                           <item>
+                              <hi>James Rayner.</hi>
+                           </item>
+                           <item>
+                              <hi>John Bondon.</hi>
+                           </item>
+                           <item>
+                              <hi>Vincent Izot.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas VVharton.</hi>
+                           </item>
+                           <item>
+                              <hi>VVilliam Shan.</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Dexter.</hi>
+                           </item>
+                           <item>
+                              <hi>John Hoskin.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Iohnſon.</hi>
+                           </item>
+                           <item>
+                              <hi>John Barham.</hi>
+                           </item>
+                           <item>
+                              <hi>VVilliam Arly.</hi>
+                           </item>
+                           <item>
+                              <hi>George Moris.</hi>
+                           </item>
+                           <item>
+                              <hi>VVilliam Woodroſs.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Burrows.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Tanner.</hi>
+                           </item>
+                           <item>
+                              <hi>George Rodes.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Skarbrow.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Borral.</hi>
+                           </item>
+                           <item>
+                              <hi>Ralph Browner.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Heath.</hi>
+                           </item>
+                           <item>
+                              <hi>Iames Heneks.</hi>
+                           </item>
+                           <item>
+                              <hi>VVilliam Ledger.</hi>
+                           </item>
+                           <item>
+                              <hi>Chriſtopher Ally.</hi>
+                           </item>
+                           <item>
+                              <hi>Iames Honiburn.</hi>
+                           </item>
+                           <item>
+                              <hi>John Johnſon.</hi>
+                           </item>
+                           <item>
+                              <hi>VVilliam Smith.</hi>
+                           </item>
+                           <item>
+                              <hi>John Smith.</hi>
+                           </item>
+                           <item>
+                              <hi>Nicholas Boſwoth.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Gunner.</hi>
+                           </item>
+                           <item>
+                              <hi>Abram Row.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Place.</hi>
+                           </item>
+                           <item>
+                              <hi>VVilliam Saunſom.</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Maidman.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Hobkin.</hi>
+                           </item>
+                           <item>
+                              <hi>VVillam Clacſtone.</hi>
+                           </item>
+                           <item>
+                              <hi>George Spencer.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Read.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Sabin.</hi>
+                           </item>
+                           <item>
+                              <hi>Iohn Maſon.</hi>
+                           </item>
+                           <item>
+                              <hi>Nathaniel VVhitting</hi>
+                           </item>
+                           <item>
+                              <hi>Timothy Roberts.</hi>
+                           </item>
+                           <item>
+                              <hi>VVilliam Beck</hi>
+                           </item>
+                           <item>
+                              <hi>Iohn Barker.</hi>
+                           </item>
+                           <pb n="13" facs="tcp:118982:9"/>
+                           <item>
+                              <hi>Richard Rodgerſon</hi>
+                           </item>
+                           <item>
+                              <hi>David Ploumer</hi>
+                           </item>
+                           <item>
+                              <hi>Peter B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>tton</hi>
+                           </item>
+                           <item>
+                              <hi>John Palſmor</hi>
+                           </item>
+                           <item>
+                              <hi>William Henderſon</hi>
+                           </item>
+                           <item>
+                              <hi>William Payne</hi>
+                           </item>
+                           <item>
+                              <hi>Peter Goſlin</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Cooper</hi>
+                           </item>
+                           <item>
+                              <hi>William Smith</hi>
+                           </item>
+                           <item>
+                              <hi>Rodger Coply</hi>
+                           </item>
+                           <item>
+                              <hi>John Strandwidg</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Reall</hi>
+                           </item>
+                           <item>
+                              <hi>Jonas Brookbanke</hi>
+                           </item>
+                           <item>
+                              <hi>Ralph Gillam</hi>
+                           </item>
+                           <item>
+                              <hi>Eleazer Berens</hi>
+                           </item>
+                           <item>
+                              <hi>William Beal</hi>
+                           </item>
+                           <item>
+                              <hi>George Banners</hi>
+                           </item>
+                           <item>
+                              <hi>Joſeph Sarbut</hi> junior.</item>
+                           <item>
+                              <hi>William Harris</hi>
+                           </item>
+                           <item>
+                              <hi>William Hutchines</hi>
+                           </item>
+                           <item>
+                              <hi>William Arme</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Batt</hi>
+                           </item>
+                           <item>
+                              <hi>John Blython</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Penney</hi>
+                           </item>
+                           <item>
+                              <hi>John Greenhaugh</hi>
+                           </item>
+                           <item>
+                              <hi>William Peacocke</hi>
+                           </item>
+                           <item>
+                              <hi>John Gray</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Corner</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Jones</hi>
+                           </item>
+                           <item>
+                              <hi>William Powel</hi>
+                           </item>
+                           <item>
+                              <hi>Cornelius Foxly</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Neall</hi>
+                           </item>
+                           <item>
+                              <hi>John Peacocke</hi>
+                           </item>
+                           <item>
+                              <hi>William Bafer</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Wharton</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Tinbee</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Allin</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Goſtlin</hi>
+                           </item>
+                           <item>
+                              <hi>John Towers</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Gesford</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Lawleſs</hi>
+                           </item>
+                           <item>
+                              <hi>Charles Williams</hi>
+                           </item>
+                           <item>
+                              <hi>Joſeph Barcop</hi>
+                           </item>
+                           <item>
+                              <hi>John Merry</hi>
+                           </item>
+                           <item>
+                              <hi>Nicholas Kilbee</hi>
+                           </item>
+                           <item>
+                              <hi>Valentin Hall</hi>
+                           </item>
+                           <item>
+                              <hi>Andrew Kildenmore</hi>
+                           </item>
+                           <item>
+                              <hi>William Lambey</hi>
+                           </item>
+                           <item>
+                              <hi>Hugh Griffin</hi>
+                           </item>
+                           <item>
+                              <hi>John Hartley</hi>
+                           </item>
+                           <item>
+                              <hi>John Sharpe</hi>
+                           </item>
+                           <item>
+                              <hi>Joſeph Bell</hi>
+                           </item>
+                           <item>
+                              <hi>William Budley</hi>
+                           </item>
+                           <item>
+                              <hi>George Jelly</hi>
+                           </item>
+                           <item>
+                              <hi>John Claye</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Hall</hi>
+                           </item>
+                           <item>
+                              <hi>Walter Thomſon</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Farley</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Bilefome</hi>
+                           </item>
+                           <item>
+                              <hi>John Wright</hi>
+                           </item>
+                           <item>
+                              <hi>John Millborne</hi>
+                           </item>
+                           <item>
+                              <hi>William Taylor</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Griffen</hi>
+                           </item>
+                           <item>
+                              <hi>Timothy Smart</hi>
+                           </item>
+                           <item>
+                              <hi>Charls Elmor</hi>
+                           </item>
+                           <item>
+                              <hi>Iames Doxtie</hi>
+                           </item>
+                           <item>
+                              <hi>James Smith</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Nicholſon</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Pardew.</hi>
+                           </item>
+                           <item>
+                              <hi>John Clarke</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Jackſon</hi>
+                           </item>
+                           <item>
+                              <hi>Chriſt. Taunton</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Haile</hi>
+                           </item>
+                           <item>
+                              <hi>Andrew Eaſtwood</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Iſſacher</hi>
+                           </item>
+                           <item>
+                              <hi>John Campion</hi>
+                           </item>
+                           <item>
+                              <hi>John Lee</hi>
+                           </item>
+                           <item>
+                              <hi>Peter Waddeman</hi>
+                           </item>
+                           <item>
+                              <hi>John Roſſe</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Rumball</hi>
+                           </item>
+                           <item>
+                              <hi>William Compton</hi>
+                           </item>
+                           <item>
+                              <hi>Charles Williams</hi>
+                           </item>
+                           <item>
+                              <hi>Joſeph Bartoke</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Cuppey</hi>
+                           </item>
+                           <item>
+                              <hi>James Jeaſon</hi>
+                           </item>
+                           <item>
+                              <hi>Sam. Cocſhull</hi>
+                           </item>
+                           <item>
+                              <hi>William Lecke</hi>
+                           </item>
+                           <item>
+                              <hi>Rob. Thompſon</hi>
+                           </item>
+                           <item>
+                              <hi>John Partridge</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Pearce</hi>
+                           </item>
+                           <item>
+                              <hi>Philip Shipton</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Duke</hi>
+                           </item>
+                           <item>
+                              <hi>Natha. Duckfeild</hi>
+                           </item>
+                           <item>
+                              <hi>Gawin Aremſtead</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Skyner</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Fletcher.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Wonham</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Forreſt</hi>
+                           </item>
+                           <item>
+                              <hi>Joſeph Robeſon</hi>
+                           </item>
+                           <item>
+                              <hi>Ruben Ricraft</hi>
+                           </item>
+                           <item>
+                              <hi>Andrew. Reeme</hi>
+                           </item>
+                           <item>
+                              <hi>Harman Tivil</hi>
+                           </item>
+                           <item>
+                              <hi>Michael Goodman</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="14" facs="tcp:118982:10"/>
+            <p>So that I doubt not but you now ſee, that till this, and at this time to none, but theſe men; who to revenge their own deſired luſt, and to wreſt out of my hands the authority of my miniſtry, and civil right of my place: and the better to pal<g ref="char:EOLhyphen"/>liate their horrid impiety, and to cloude mine integrity, do labour might and main, right and wrong, to make me vile, whom bleſſed be God they cannot ſo finde. And now as to the Charge, I ſhall deſire to note of it in general,</p>
+            <p n="1">1. That it is exhibited under the ſpecious title of <hi>the major part of the Common Council-men, Churchwardens, and divers in<g ref="char:EOLhyphen"/>habitants of the Pariſh of</hi> Bottolphs Aldgate, London And yet no one Common Council man, or Churchwarden hath ſigned it; nor any one Inhabitant, <hi>John Levet</hi> (one of the baſeſt and vileſt for conſtant enmity to Goſpel miniſtry, com<g ref="char:EOLhyphen"/>mon lying and cozoning in the courſe of his calling, and con<g ref="char:EOLhyphen"/>tempt, in the point of his eſtate excepted) unleſſe Capt. <hi>Tho. Harriſon</hi> (that known enemy of Gods Miniſters, and impu<g ref="char:EOLhyphen"/>dent invader of the pulpit (who as I am informed) purpoſely to avoide the charge of pragmatical buſying himſelf in other mens matters, hath about a fortnight ſince taken ſome lodg<g ref="char:EOLhyphen"/>ings in the pariſh, muſt be deemed an inhabitant. I well know indeed that the major part of the Common Council-men in point of number; and two Churchwardens are confederate in this deſign, proteſted againſt by two Common Council-men, and two Churchwardens, and many hundreds of the Pariſh: and if quality may but counterpoiſe, the five exhibiting will be found much too light for one of the four diſowning this Charge; two of the three Common Councilmen being vene<g ref="char:EOLhyphen"/>rable Carpenters in their Taffety doublets,<note place="margin">Iohn Wildgoſs. Iohn Pits. William Iellie.</note> and the other a Tallow-chandler, who gaping for a Deputiſhip, did on pur<g ref="char:EOLhyphen"/>poſe to remove them, help the two oppoſite Common Coun<g ref="char:EOLhyphen"/>cilmen to the dignity of Aldermen, and yet loſt their deſign: and as to the point of their practice, let the whole Warde witneſs, whether it poſſeſſeth more proud, ambitious, turbu<g ref="char:EOLhyphen"/>lent, deboiſt, envious and profane perſons, more profound Sack-ſuckers, and ſubſtantial Alehouſe-ſupporters, then are theſe five men. And I will be bold to charge them to be malicious enemies to Goſpel miniſtry; one of them to be forſworn, another convict before the Council impudently
+<pb n="15" facs="tcp:118982:10"/> to aſſert a notorious lie, and yet four ſeveral times offered to ſwear it: the third it is well known hath many times high heels under an heavy head, and knows how in Veſtry Coun<g ref="char:EOLhyphen"/>cils to pay his Tavern Reckoning; and the two Churchwar<g ref="char:EOLhyphen"/>dens will ſcarcely bring their action againſt ſuch as ſhall ſay they are common drunkards and ſwearers, but they have made the whole Congregation witneſs, that they can apply this general confeſſion in prayer, <hi>Lord, there are in the midſt of us men mighty to drink wine, and ſuch as put their bottle to their brothers noſe to make them drunk.</hi> In a word, they are the ſhame of the Ward that keeps them in office, and a great diſhonour to the honourable Common Council of this City. And as theſe five, ſo their divers inhabitants confederate, will be on enquiry found to be men moſt deſperately profane, and at a deadly enmity to the power of godlineſs. I doubt not but you will eaſily judge theſe are fit inſtruments to appeare againſt a Miniſter, and eject him out of this office, whom men of Civility, Gravity, Honeſty and Piety do own as godly, and contend to enjoy.</p>
+            <p>The ſecond thing that I deſire to note, is, That this Charge is meerly frivolous, and viſibly malicious; containing in it nothing really criminal or ſcandalous: Suppoſe a truth in the whole, it accuſeth humane infirmities, and chargeth ſome acts of weakneſs, which yet are not inconſiſtent with piety, or miniſterial fidelity; nay, and the whole charge lieth without the Cognizance of this Court, and although there were (as indeed there is not) never ſo much truth in it, yet it is <hi>Coram non Judice:</hi> you being to judge by a Law, and that law enu<g ref="char:EOLhyphen"/>merating ſuch particular crimes as ſhall be deemed ſcandalous, none of which is in this Charge objected againſt me, and therefore unto it I am not bound to pleade, or give any an<g ref="char:EOLhyphen"/>ſwer: Nay, I doubt not but you wil ſee that you are bound to reject the charge as meerly frivolous; for as to that part which ſeems to come neareſt the criminals, you are appointed to judge, <hi>(viz.)</hi> many expreſſions which are pretended to be ſpoken againſt the Lord Protector; had I (as I profeſſe in the preſence of God, Angels and Men, I did not ſpeak them) yet they are no publication of diſaffection to the government, but onely Querulous expreſſions of the carriage of Governours,
+<pb n="16" facs="tcp:118982:11"/> and that in the caſe of a perſonal and particular grievance, and theſe two are diſtinct. The Government may be juſt, good and allowed, where the Governors may act unjuſtly, oppreſs and occaſion groans and grievous expreſſions of complaint, which yet muſt not be deemed diſaffection to the govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>So that whilſt in pleading and giving anſwer to this Charge, I may render ſcandalous and criminal what is not ſo, and be<g ref="char:EOLhyphen"/>ſpeak you a Court altogether Arbitrary, who are not ſo, and become an evil Preſident to ſuch as ſhall come on this ſtage af<g ref="char:EOLhyphen"/>ter me; and be an occaſion for men to fancy, that your Com<g ref="char:EOLhyphen"/>miſſion, piouſly intended to reform the Miniſtry, may be uſed as the humor of envy, and means to ruine Goſpel Miniſtry, on the diſcontent of any malicious men. I cannot but crave your judgment on the charge, and its conſonancy to your Law, and if in your judgments (as in mine) it appeareth to be out of your cognizance, that you will pleaſe ſo to declare it, and accordingly to reject it as meerly frivolous; the which being done, if you and mine enemies pleaſe, I ſhall as before ſo ma<g ref="char:EOLhyphen"/>ny private perſons, whoſe judgements are amicably deſired, give anſwer unto the ſeveral particulars of this Charge, by which wide-mouthed and weak men may know, that I plead not your want of Judicial Power to palliate my wicked cauſe, and cloud my courſe of life, the which, as it hath, ſo it ſhall (with the allowances due to frail man) undergo the ſtricteſt ſcrutinie of envy it ſelf, if God deliver me from falſe witneſſe, with which I have been afflicted.</p>
+            <p>I having made bold by way of demur to note what is in gene<g ref="char:EOLhyphen"/>ral obſervable in the Charge, do now crave liberty to give un<g ref="char:EOLhyphen"/>to the particular Articles this particular anſwer.</p>
+            <p>Unto Article the firſt and ſixth, the one charging me to have ſaid unto <hi>John Farmantle, If I ſhould conſult the divel, what is that to you?</hi> And that <hi>of my ſelf I ſhould interline the name of</hi> Roger Walden <hi>into a Juſtice of Peace his Warrant.</hi>
+            </p>
+            <p>I anſwer, Though neither of them are criminal, and are qua<g ref="char:EOLhyphen"/>lified with ſuch miſtaken circumſtances, and notorious falſities that I might plead Not guilty, and evade by diſproving the circumſtances; yet I ſay to them, as <hi>Auſtin</hi> to the accuſing Manichee, <hi>Quae tu accuſaſti egomet damnavi,</hi> Mine own accu<g ref="char:EOLhyphen"/>ſation
+<pb n="17" facs="tcp:118982:11"/> ought to have ſaved them the labor; whilſt had not mine own in genuitie and ſimplicitie owned, they could never have convicted me, eſpecially of the latter. Is not that a right Chriſtian charge, when a mans own confeſſion muſt be the only ground of the accuſation? Is not repentance the ſpunge of impiety, much more of infirmity in the pious, and theſe were no other; if ſo much; for neither was the one ſpoken, nor the other acted wilfully, but under viſible temptation, or mature advice and counſel.</p>
+            <p>
+               <hi>John Farmantle</hi> as a faithful witneſs ſhould tell the whole truth, he as an overbuſie man neer three yeers paſt, packing with, &amp; put on by <hi>Will. Turner,</hi> and other his profane compani<g ref="char:EOLhyphen"/>ons (who rage at the leaſt reſtraint or bar to the Lords Table) purpoſely to diſturbe the ſerious debate to that end agitated, did reſtleſly and clamorouſly querie, <hi>How will you know who are profane?</hi> to which he received that mild anſwer, Friend, <hi>I will reſolve you in that anon when this debate is ended:</hi> yet he purſued to diſturb, and was repelled with this ſecond anſwer, <hi>it may be ſome of your neighbors may inform me;</hi> yet not abiding ſilent, he received this third anſwer, <hi>Why do you ſo buſie your ſelf in that which concerneth you not? I ſhall endeavor to know who are profane, and if God by his Spirit ſhould reveal it, what need you care?</hi> He yet proceeding to interrupt our debate, at laſt received this unadviſed check, <hi>What a ſtrange buſie man are you thus to enquire of that which concernes you not? if I ſhould conſult the divel, what is that to you?</hi> So you ſee paſſion pro<g ref="char:EOLhyphen"/>voked to the height before it uttered this expreſſion; and a meek <hi>Moſes</hi> may wrathfully call <hi>Iſrael</hi> Rebel, and by the Spirit of God canonizing his Saint-ſhip be ſhadowed with this charge, <hi>They vexed his Spirit, ſo that he ſpake unadviſedly with his lips.</hi>
+            </p>
+            <p>And as the expreſſion was not uttered, ſo the action was not done without temptation. And concerning it, I ſay it was an error, but I bleſſe God on my ſpirit there is no aggra<g ref="char:EOLhyphen"/>vating guilt, nor any thing more ſave <hi>actum agere,</hi> I wrote the name. The caſe was thus; The Juſtices Clerk having o<g ref="char:EOLhyphen"/>mitted <hi>Waldens</hi> name (purpoſed to have been in the Warrant) I was running to the Old-Bayly to have it inſerted, and met
+<pb n="18" facs="tcp:118982:12"/> with an eminent and antient Atturney of this City, who told me, I might put in his name my ſelf, for it was ordinary ſo to do, and in that caſe for which the Warrant was grant<g ref="char:EOLhyphen"/>ed, he was apprehenſible without it.</p>
+            <p>Paſſing from him, I met with an Alderman, who told me, I might do it and the Juſtice would own it, who never did diſowne it. On which adviſing, and knowing that the Alder<g ref="char:EOLhyphen"/>man was buſie at the Seſſions, I did interline his name; and al<g ref="char:EOLhyphen"/>though one Juſtice did acquit him, yet before the Lord Chief Juſtice he was convicted of a Conſpiracie laid at the Fountain Tavern by <hi>Alderſgate</hi> to pull me out of the Pulpit; to which end he combined with <hi>Tench</hi> and <hi>Finch</hi> two profane and blaſphemous Conſtables, who made a Ryot in my Church, and came up to the Pulpit to pluck me thence, and diſturbed our aſſembly in the time of Publick Wor<g ref="char:EOLhyphen"/>ſhip, and therefore gave juſt cauſe for a Warrant to apprehend him.</p>
+            <p>And now what will this Charge amount to; Mr <hi>Crofton</hi> is guilty of an unadviſed expreſſion and action, extorted by the viſible force of a temptation. This is indeed an infirmity de<g ref="char:EOLhyphen"/>ſerving <hi>fraterna correptio, Brotherly reproof,</hi> which I have, and am ready to receive from my Brethren in the Miniſtrie, and deſire to be humbled for, as they open the mouths of profane men, that delight to blaſpheme.</p>
+            <p>But are theſe criminal acts inconſiſtent to piety, &amp; making the Miniſtry odious, that he muſt for them be caſt out, and trodden under foot of men. The men that can thus loudly clamor upon his unadviſed expreſſion, never once diſcover the provoked paſ<g ref="char:EOLhyphen"/>ſion which uttered it, nor conſider their own terms deliberate<g ref="char:EOLhyphen"/>ly uttered, as, That <hi>the divel is in you that you own Mr.</hi> Crof<g ref="char:EOLhyphen"/>ton, as <hi>Thomas Harriſon</hi> ſaid to M. <hi>Vanhack,</hi> and <hi>we will conſult the divel, but we will have that ſhall do againſt him to ruine him,</hi> as they were heard to ſay in the Guild<g ref="char:EOLhyphen"/>hall on Wedneſday the ſecond inſtant. This is not a check of pragmatick curioſitie, but a publick reſolution. May I not juſtly ſay, <hi>Pull the beam out of thine own eye;</hi> but recri<g ref="char:EOLhyphen"/>mination is not my work.</p>
+            <pb n="19" facs="tcp:118982:12"/>
+            <p>Unto the ſecond Article, which chargeth me to have anſwer<g ref="char:EOLhyphen"/>ed M. <hi>Sabin</hi> when be asked me, <hi>VVhy I did not obſerve his High<g ref="char:EOLhyphen"/>neſſe dayes of Thanksgiving, &amp;c. An honeſt man may receive a courteſie from a Thief on the High-way.</hi>
+            </p>
+            <p>I anſwer, That this is not criminal, for it is an evaſive an<g ref="char:EOLhyphen"/>ſwer, and no Argument of diſaffection to the government; for it is the uſual Simile brought by ſuch as preſs ſubjection unto government irregularly acquired. I remember Judge <hi>Mack<g ref="char:EOLhyphen"/>worth</hi> uſed a more homely ſimilitude after the cutting off the late King, preſſing ſubjection to the changed government, he ſaid, I will preſuppoſe your former husband was moſt cruelly and unjuſtly murdered, were you not then at liberty to mar<g ref="char:EOLhyphen"/>ry another? It is well he is dead; theſe men would endea<g ref="char:EOLhyphen"/>vour to make him a Traitor: But theſe words I never ſpake, and that M <hi>Sabine</hi> himſelf is ſteady on his oath to witneſs when ever he is called. And what they mean by words to this purpoſe, I know not, nor need I care; for they that will make a man an offender for a word, ought to charge and prove ſyllabically. <hi>Words to this purpoſe,</hi> was deemed a very great grievance in the late High Commiſſion Court, and I hope ſhall not be admitted in theſe dayes of liberty. For <hi>Words to this purpoſe,</hi> may be ſo in their apprehenſion, which are not ſo in the ſpeak<g ref="char:EOLhyphen"/>ers intention: Evaſive anſwers are uſually ambigu<g ref="char:EOLhyphen"/>ous. Preſuppoſe that I ſhould ſay in anſwer to ſuch a Que<g ref="char:EOLhyphen"/>rie, a man may <hi>receive a courteſie on</hi> Hounſlow Heath. Theſe men cry it amounts to the ſame ſence, as if none but Theeves did travel over <hi>Hounſlow Heath;</hi> but charity can eaſily find another ſence, and make the ſimile run thus, A man may receive a courteſie from a ſtranger travelling over <hi>Hounſlow,</hi> whom he knowes not, nor what right he hath to give, only he finds him poſſeſſed. Words to this purpoſe, will eaſily hook in the beſt friends that have pleaded plenary poſſeſſion to cre<g ref="char:EOLhyphen"/>ate a right to puniſh acquirements; and according to accuſers miſtaken apprehenſions, I muſt be charged as I am in the next Article.</p>
+            <p>Unto Article the third, which chargeth me to have ſaid, <hi>The Lord Protector was not a competent Judge, becauſe he had prejudg<g ref="char:EOLhyphen"/>ed me in giving away the half of my Pulpit to</hi> Simpſon; <hi>and fur<g ref="char:EOLhyphen"/>ther, that he was an unrighteous Judge, for he that could
+<pb n="20" facs="tcp:118982:13"/> make a noſe of Wax of the Law, as he had done, was an unrighte<g ref="char:EOLhyphen"/>ous Judge an unrighteous; or words to that effect.</hi>
+            </p>
+            <p>To this I anſwer. This is a complaint of unjuſt adminiſtra<g ref="char:EOLhyphen"/>tion, but no declared diſaffection to government; but as to theſe words, as charged, I never ſpake them: <hi>The Harriſon</hi> told me, <hi>He would have the Protector hear the foolery clamou<g ref="char:EOLhyphen"/>red of my maid:</hi> To which I anſwered, <hi>I have offered, and do offer to caſt my credit on the verdict of twelve men amicably choſen, or returned by the Sheriff, but as for the Protector he is no competent judge, for he hath prejudged me:</hi> and that I had cauſe to ſay ſo there are ſome anong you know: And if a man may not deem his Highneſs in ſome caſes an incompetent judge, why doth the Lord Chief Juſtice ſit on the Bench in cauſes to him relating? And how is he capable of being im<g ref="char:EOLhyphen"/>pleaded? But, as for the <hi>giving away the halfe of my Pulpit,</hi> and ſaying, <hi>That the Protector was an unrighteous judge, and made a noſe of Wax of the Law,</hi> I never ſaid or thought it: For I am yet to be convinced, that by any colour of law I ſhould be interrupted in publick ſervice, or hindred from preaching twice a day to my people, and that <hi>ſtatis horis,</hi> on the Sabbath. And therefore unto this part I plead, Not guilty, and to convince me, you muſt expect the Oath of <hi>John Wildgoſs,</hi> and <hi>William Jellie,</hi> both accuſers, but have not ſub<g ref="char:EOLhyphen"/>ſcribed, that they may be witneſſes; and theſe men if they would ſwear truth muſt tell you, theſe were <hi>Tho. Harriſons</hi> words, not mine. For they coming to my houſe, and know<g ref="char:EOLhyphen"/>ing that I would not ſpeake with them alone, brought with them <hi>Nathaniel Duckfield</hi> and <hi>Edmund Man</hi> (now at reſt) both men fearing God, and they heard what paſt in diſcourſe between us.</p>
+            <p>And if theſe two Common Council-men do ſwear (as they are deſperate enough) that I ſpake theſe words, I ſhall pro<g ref="char:EOLhyphen"/>duce, <hi>Nathaniel Duckfield</hi> and one <hi>Roger Morris</hi> (a Mini<g ref="char:EOLhyphen"/>ſter in <hi>North Hamptonſhire,</hi> who was in my houſe) to wit<g ref="char:EOLhyphen"/>neſſe that when I ſaid, <hi>The Lord Protector was no competent judge;</hi> Thomas Harriſon <hi>ſaid, What, do you ſay the Protector is an unrighteous judge?</hi> I replyed, <hi>No, he that is an incom<g ref="char:EOLhyphen"/>petent, is not alwayes an unrighteous judge:</hi> He anſwered, <hi>I
+<pb n="21" facs="tcp:118982:13"/> will ſwear you ſaid ſo;</hi> and he now attempts to accompliſh his word: and when theſe two Common Council-men were gone away with this accuſer, I and my friends did bewail their wickedneſs, that would gloſs on my words, and then ſwear I ſpake them; but thus they make up their <hi>words to that pur<g ref="char:EOLhyphen"/>poſe.</hi>
+            </p>
+            <p>Moreover I ſhould (if not furniſhed to diſprove them) except againſt their teſtimony as incredible, not onely as they are accuſers, in whoſe name the Charge is exhibited, but as the one is forſworn, and the other a convict lyar.</p>
+            <p>Unto Article the fourth, Relating to the incivility pretend<g ref="char:EOLhyphen"/>ed to be acted on the body of <hi>Mary Cadman,</hi> I ſay it is here added to no other end ſave <hi>audactèr calumniaere</hi> to faſten with impudence their own ſlander; were it true, it is no crime; and modeſty hath been more violated by the fame, then act it ſelf if done.</p>
+            <p>But theſe men are moſt notoriouſly impudent, to charge what they can prove by none, ſave a notorious thief and liar, and one that hath to many in diſcourſe, and on her oath denied it; and that which ſhe never owned, till by a Juſtices Warrant brought to the Pye and Hoop Tavern hefore their very ſelves, who have circumſtantiated it moſt ridi<g ref="char:EOLhyphen"/>culouſly; and taught her and others to ſwear the things in which they are palpably forſworn, and ſo proved, as doth appear in the late book to you directed, called <hi>Perjury, the Proof of Forgery,</hi> penned by a friend of mine that well knew all circumſtances relating to that buſineſſe. To this there<g ref="char:EOLhyphen"/>fore I plead, Not guilty; and will hold mine integrity until I die, and not juſtifie theſe mine accuſers.</p>
+            <p>Unto Article the fifth, I ſay, that I did ſay, That the Order concerned not me, it being directed to M. <hi>Grafton.</hi> I knew not the Order to come from the Council, it not being ſigned by the Clerk as was uſual. On <hi>Auguſt</hi> the 8. I gave an an<g ref="char:EOLhyphen"/>ſwer to that order which provided M. <hi>Simpſon</hi> a liberty of Lecturing in my Church, which anſwer was, <hi>That I would do my duty</hi> ſtatis horis, <hi>and leave him to his liberty when I have done;</hi> and I am ſure <hi>Stepney</hi> would give 50 <hi>l. per. ann.</hi> for ſuch
+<pb n="22" facs="tcp:118982:14"/> a grant. On <hi>Auguſt</hi> the 9. I kept my pulpit, being ſo adviſed by council, and knowing that if I ſtept out they would ſeizeit, and to that end <hi>Simpſon</hi> preached at Creed-Church that morning.</p>
+            <p>The Conſtables out of <hi>Middleſex</hi> who had their ſtaves were Pariſhioners, and on their duty defending me in my right, from ſuch as had at the Fountain Tavern conſpired to pull me out of the pulpit, who were theſe very accuſers and proſecu<g ref="char:EOLhyphen"/>ters of this charge. For this I was had before the Council, and acquitted; and theſe Conſtables were by theſe men indicted for a Riot who did but their duty, as was evidenced on Tueſday the firſt of <hi>December</hi> inſtant, before the Lord Chief Juſtice, where they were acquitted, and the conſpiracy of theſe men was diſcovered. And it muſt not be made a ſcandal for a Miniſter to contend for his juſt liberty to do his duty, and to have the Officers to defend him in the ſame againſt the plotted, viotent aſſaults of his enemies.</p>
+            <p>Unto the four firſt additional Articles, charging me on the Lords day <hi>Auguſt</hi> 16 in my Church and Sermon to have ſaid,</p>
+            <p n="1">1. That <hi>Moſes</hi> could prevail with the Lord in Prayer, but I could neither prevail by Prayer nor Law, becauſe ungodly men have prevailed with the unjuſt Judges of this Nation, who have gon contrary to their oath, tyrannically diſinheriting me of my right, and letting an erronious turbulent ſpirit enjoy it.</p>
+            <p n="2">2. And that their ſword was their Law, and therefore their Tyranny was the greater, whereunto law could notreach.</p>
+            <p n="3">3. And if that I were to plead my cauſe with either godly, or honeſt, or pious, or civil, modeſt or juſt Judges, according to Law, I were confident I ſhould enjoy my right; and ſaid, That the wickedneſs of ungodly men had ſo prevailed againſt me, with the ty<g ref="char:EOLhyphen"/>ranny of unjuſt judges, that I was inforced to leave my right; and if any of the ſouls of my people be damned, for ought I know their blood would be re<g ref="char:EOLhyphen"/>quired at the hands of the unjuſt Judges, or Erronious intruders.</p>
+            <p>I have received an order for <hi>Simpſons</hi> teaching in my pulpit, and I am here to ſurrender my juſt re-entred right to <hi>Simpſon,</hi> contrary to all law, right and rea<g ref="char:EOLhyphen"/>ſon, &amp; as a certain King ſaid, what I wil do, I wil do, ſo Iam diſre-entred by that power that what they wil do, they wil do, contrary to all law, right and reaſon.</p>
+            <p>Unto this whole charge I deſire it may be noted, That theſe are the higheſt but querulous expreſſions in apprehenſion of of oppreſsion in a particular caſe. They all relate to the intruſion of <hi>Iohn Simpſon</hi> into my church, and are charg<g ref="char:EOLhyphen"/>ed on that occaſion to be ſpoken, as being thereby provoked. It is the obſervation of the preacher, <hi>That oppreſſion will make a wiſe man mad.</hi> Theſe men make me cry, and then endeavour to have me beaten for crying. His Highneſs grants <hi>I. Simpſon</hi> a liberty, taking it for granted, that he and his people have ſo much ho<g ref="char:EOLhyphen"/>neſty
+<pb n="23" facs="tcp:118982:14"/> and modeſty as to obtain both miniſters and peoples conſent. They diſ-ingenuouſly decline that, and by his liberty violently bring me and my people and Gods Ordinances into Captivity.</p>
+            <p>Can I chuſe but be grieved? Can a grieved ſpirit chuſe but ſpeak? And muſt not their unadviſed ſpeeches meet with in<g ref="char:EOLhyphen"/>dulgence? Our common proverb ſaith, <hi>Loſers may have leave to ſpeak.</hi> All men muſt needs judge, that to have my Church commanded againſt the common and juſt priviledge provided for, and poſſeſſed by all other Miniſters, muſt needs provoke paſſion: I, but to be commanded by <hi>Jo. Simpſon a man of tumults,</hi> witneſs <hi>Pauls</hi> Church yard, Biſhops-gate and Spittle fields: <hi>a man of ſedition,</hi> witneſs Blackfriers, &amp; Alhallows fifth Monarchy Lectures: <hi>A man of Error, even damned errors,</hi> a convicted Antinomian, the men yet live in Aldgate Pariſh that convicted him of ſaying, <hi>The Law is of no uſe, not ſo much as a rule of life to a believer:</hi> Since his intruſion into my pulpit, he hath decried and degraded Gods holy Ordinances; at one time preaching, he ſaid, <hi>To learn a Catechiſm is not to worſhip God, you may as wel take your children to the Market or Fair, and buy them Bawbles, Rattles and Hobbie-horſes as Catechiſmes;</hi> And when I took notice of it, moſt impudently denyed in the ears and to amazement of the ſame Aſſembly, that ever he ſpake it, inſomuch that ſome ran out of the Church charging him with a notorious lye. And at the ſame time he utterred this expreſſion, <hi>That it was groſſe ignorance for any to think by catechetical heads to bring a man to the knowledge of Chriſt.</hi> Thus in the ſame place where I had <hi>vindicated,</hi> he hath <hi>vilified</hi> this needful Ordinance of <hi>Catechizing.</hi> And in my own hearing he did moſt groſly abuſe Scripture by falſe interpretations, as in the Sermon he preached on 1 <hi>Pet.</hi> 3.19. he noting Chriſt by his Spirit preached to the ſpirits which are in priſon: <hi>By Spirit of Chriſt,</hi> he underſtood, <hi>the Works of Creation and Providence to ſuch as lived remote from Noah, and the voice of Noah to ſuch as were neer him:</hi> and by <hi>Priſon</hi> he underſtood <hi>an eſtate of ſin and unregeneracy.</hi>
+            </p>
+            <p>And on Wedneſday the 2 of Sept. 1657, he preached, and moſt vigorouſly preſſed this Familiſtical, and Baptiſm degrading
+<pb n="24" facs="tcp:118982:15"/> Notion, <hi>(viz.) Baptiſm is not the ground of communion with the Church, but real grace, the anſwer of a good conſcience by the Reſurrection of Chriſt from the dead; and though a man were altogether ignorant of the Doctrine, and had never paſſed under Water-Baptiſm, he could own him as a member of the Church, and give him all the Ordinances of Jeſus Chriſt.</hi> And greatly he did inveigh againſt all ſuch as would not continue in com<g ref="char:EOLhyphen"/>munion with the unbaptized. And although the ſame day I taxed him with error, and ſoberly demanded his Arguments, noting ſome againſt this notion; nay, and on the following Wedneſday I by another Letter did demand and provoke his anſwer, but ſo diſ-ingenuous and obſtinate he is, that I never obtained any.</p>
+            <p>Now to have ſuch a man to be intruded upon my people, will it not provoke miniſterial zeal to loud complaints, and give me cauſe to ſay, <hi>If any of my peoples ſouls be damned, their blood will be required from the erroneous intruders.</hi>
+            </p>
+            <p>So that I hope unadviſed expreſſions in this caſe ſhall not be deemed diſaffection to the Government, under which I li<g ref="char:EOLhyphen"/>ved peaceably without the leaſt expreſſion or ſuſpition of diſ<g ref="char:EOLhyphen"/>affection, untill hereby provoked; and if God and thoſe in Government will but take this yoak from off me and my people, I ſhould be found as ſilent as the moſt ſubmiſſe to the preſent Government: and a favourable apprehenſion of any expreſſions uttered in this provoked complaint, is the rather deſired, for that I was one who fought for my liberty, and expect to enjoy it, no leſſe then others: ſo far was I from being in armes for the King (as mine accuſers have repor<g ref="char:EOLhyphen"/>ted) as that under Sir <hi>John Meldrom</hi> and Colonel <hi>Shuttle<g ref="char:EOLhyphen"/>worth,</hi> I was in armes againſt him, as <hi>Lancaſhire</hi> and <hi>Cheſhire</hi> can well know, where I encountred thoſe dangers that the proudeſt of mine enemies I believe never did. I will not except Captain <hi>Harriſon,</hi> nor yet Major <hi>John Simpſon,</hi> of both whom I much miſtake if it may not be ſaid, <hi>Tutius eſt contendere ver<g ref="char:EOLhyphen"/>bis, quam pugnare manu:</hi> And in that Parliamentarie quarrel I did perſevere to the laſt ſtroak, and the Principles thereof I do with conſtancy retain. Nor was I ever ſequeſtred on any account of diſaffection as mine enemies have falſly ſuggeſted:
+<pb n="25" facs="tcp:118982:15"/> It is indeed true, our Nation hath of late been ſubject to ſome revolutions, wherein I can better dread providence then defend inſtruments; herein I (as many other good men) ſtand diſſatisfied, but not declaredly diſaffected: and I hope if the childs complaint do flie ſomething too high, it will be an Apology to acquit from the charge of diſaffection that the parents have <hi>provoked unto wrath.</hi>
+            </p>
+            <p>But why do I ſtand to apologize where I am falſely accu<g ref="char:EOLhyphen"/>ſed: unto this whole charge I do really plead, Not guilty. I did not on the 16 of <hi>Auguſt</hi> ſpeak any of theſe expreſſions in the Sermon preached at <hi>Aldgate,</hi> nor did I ſpeak them at any other time in any other place or Sermon: and I much wonder who muſt witneſs theſe expreſſions to be mine, where did they ſit? I can already read that they truſted their me<g ref="char:EOLhyphen"/>mory more then their pen, and I hope when they come to proof they will give you a convincing account of the Sermon in which theſe expreſſions were uttered. Sure I am that my whole Congregation will on the firſt view of them ſay, Mr. <hi>Crofton</hi> never uttered ſuch words in their eares, nor is it his Dialect or ſtile of ſpeech; it ſounds much more like the raſh conceptions and rude expreſſions of an All-hallows Lecturer, and thoſe who penned that daies Sermon can finde nothing like this Charge, though mine accuſers charge with confi<g ref="char:EOLhyphen"/>dence, and without their wonted <hi>Salvo,</hi> or <hi>words to that effect;</hi> nay, ſo far are theſe words from being mine, that though I would juſtifie the matter, I ſhould bluſh at the form: I do not uſually ſpeak non ſenſe, and theſe expreſſi<g ref="char:EOLhyphen"/>ons are no other; in the very firſt, note the connexion, <hi>Mo<g ref="char:EOLhyphen"/>ſes could prevail with the Lord in prayer, but I can neither pre<g ref="char:EOLhyphen"/>vail by prayer nor law:</hi> I pray you who is the object of <hi>Prayer and Law?</hi> is not the <hi>Lord,</hi> with whom <hi>Moſes</hi> prevailed? and doth it not ſound like M. <hi>Crofton? He could not prevail with God by prayer or law becauſe ungodly men had prevailed with unjuſt Judges,</hi> &amp;c. And again, thinks any that I deem a Church-living an <hi>inheritance,</hi> that I ſhould account the intruſion of <hi>Joh. Simp<g ref="char:EOLhyphen"/>ſon</hi> into the whole (who is in no part) a <hi>diſinheriting</hi> me of my right. Again, Thinks any that I underſtand not the term Pious or Godly, that I ſhould Tautologize in my expreſſions? Let
+<pb n="26" facs="tcp:118982:16"/> my brethren Judge whether it is probable that I would fetch a Similitude from <hi>a certain King that ſaid,</hi> What I will do, I will do, as if I knew not <hi>ſic volo, ſic Jubeo,</hi> to be a faeminine reaſon; ſo that the whole is ſuch an heap of non-ſenſe, that could I be convict I ſpake it, I ſhould rather be convened be<g ref="char:EOLhyphen"/>fore you as an <hi>inſufficient,</hi> then a <hi>ſcandalous Miniſter,</hi> but the very face of the child ſheweth it to be the brat of ſome ma<g ref="char:EOLhyphen"/>licious brain; For I profeſs before God, Angels and Men, that I ſpake them not: Nay, by Gods grace, it hath been my care not to mingle my paſſionate complaints with his pure Word; and therefore whatever I have done, I did it diſtinct from my Sermon. I did the 16 of <hi>Auguſt</hi> expreſſe a complaint againſt <hi>John Simpſon</hi> and his confederates, and expoſtulate with them as men of neither reaſon nor civility, honeſty or piety, and they reflect what is charged on themſelves upon the preſent Government, whereas in the whole complaint I did not once mention tyrants, or tyrannically diſinheriting, nor unjuſt Judges, nor the ſword being their Law, nor indeed any thing in this whole Charge. The complaint I did make, I (foreſee<g ref="char:EOLhyphen"/>ing the malicious miſapprehenſions and miſrepreſentations of it) I did commit to writing, communicate to ſome before I ſpake it, and did read it ſyllabically out of the paper unto the people, and I can if need be produce it. But theſe men that have openly enveighed againſt the Lord Protector, as<note n="*" place="margin">As did <hi>Iohn Simpſon</hi> in Al<g ref="char:EOLhyphen"/>hallows Le<g ref="char:EOLhyphen"/>ctures.</note> Tyrant, Great man at White-hall, and provoked againſt him an <hi>Ehuds</hi> dagger, calling him<note n="†" place="margin">As did <hi>Wil. Iellic.</hi>
+               </note> Juggler, and one that regarded not oathes, and that out of diſaffection to his Highneſs government; can put him into their room, and reflect on him the complaint made againſt themſelves, who in this very caſe of mine have done no mean diſhonour to his government, as I have noted in my <hi>Right Re-entred.</hi>
+            </p>
+            <p>Unto the fifth Additional Article, I anſwer, That preach<g ref="char:EOLhyphen"/>ing on the 3 of September, was not commanded none was un<g ref="char:EOLhyphen"/>to me propounded to preach that day at Aldgate, and though I preached not at Aldgate, yet I preached at Alhallows Bark<g ref="char:EOLhyphen"/>ing; and I am not the only man that omitted that Dayes Ex<g ref="char:EOLhyphen"/>erciſe, <hi>Communis error fit jus.</hi>
+            </p>
+            <p>Unto the laſt Additional Article, I anſwer, That there is
+<pb n="27" facs="tcp:118982:16"/> in it a notorious falſitie; for none of the neighbors deſired of me that <hi>John Simpſon</hi> ſhould preach; one indeed put out that querie, when they deſired the libertie of the Pulpit, What if we chuſe M. <hi>Simpſon?</hi> but he deſired no liberty for him; but with their ſwords by their ſides they brought him into the Church, and I would not let him preach, nor will I let him him preach in my Pulpit one moment longer then I cannot help it, and I think, ſuch as love the truth will ſay, that the care of the ſouls of my people will nouriſh, maintain and juſtifie this reſolution.</p>
+            <p>And now, <hi>Gentlemen,</hi> I have brought out my cauſe before you, and given a plea unto this Charge, and that not meerly formal, but real and true, by which I doubt not, but you will ſee that I had cauſe to ſay of it, it is falſe and frivolous: And hereupon if it come within your cognizance, and the compaſſe of your Law, I joyn iſſue, and am ready to proceed to proof, by which it will be more plainly manifeſt, that malice againſt Miniſtry, not any ſcandal in my life, is the ground of my long vexation, and preſent proſecution; and that I have cauſe to ſay with the Pſalmiſt,
+<q>
+                  <bibl>
+                     <hi>Pſal.</hi> 56.5.</bibl>
+                  <l>What things I either did or ſpake</l>
+                  <l>They wreſt them at their will,</l>
+                  <l>And all the counſel that they take</l>
+                  <l>Is how to work me ill.</l>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>Page</hi> 3. <hi>l.</hi> 10. <hi>r.</hi> unrighteous Judge. <hi>p.</hi> 5. <hi>l.</hi> 4. <hi>r.</hi> godly. <hi>p.</hi> 19. <hi>l.</hi> 33. <hi>r.</hi> unjuſt. <hi>p.</hi> 20. <hi>l.</hi> 2. <hi>r.</hi> judg. <hi>p.</hi> 22. <hi>l.</hi> 16. <hi>r.</hi> violent. <hi>l.</hi> 34. <hi>r.</hi> at the. <hi>l.</hi> 38. <hi>r.</hi> on <hi>p.</hi> 23. <hi>l.</hi> 5. <hi>r:</hi> Theſe. <hi>p.</hi> 10. againſt line 4. in marg. <hi>r.</hi> Hence their cry in all this conteſt is, We will know whoſe is the Pulpit.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
